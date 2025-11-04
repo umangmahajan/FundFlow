@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "An abstract image representing data and connections, symbolizing the flow of information and funding.",
+      "imageUrl": "https://images.unsplash.com/photo-1573804432509-189cac6f9366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMG5ldHdvcmt8ZW58MHx8fHwxNzYyMTk3MDA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract network"
+    },
+    {
+      "id": "feature-profile",
+      "description": "A close-up of a person working on a laptop, representing startup founders building their profiles.",
+      "imageUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBsYXB0b3B8ZW58MHx8fHwxNzYyMTA3MDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person laptop"
+    },
+    {
+      "id": "feature-matching",
+      "description": "An illustration of interconnected nodes, symbolizing AI-powered grant matching.",
+      "imageUrl": "https://images.unsplash.com/photo-1664526936810-ec0856d31b92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhYnN0cmFjdCUyMG5vZGVzfGVufDB8fHx8MTc2MjE5OTc3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract nodes"
+    },
+    {
+      "id": "feature-tracking",
+      "description": "A dashboard with charts and graphs, representing application tracking and performance metrics.",
+      "imageUrl": "https://images.unsplash.com/photo-1649881927251-46644283751a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGFzaGJvYXJkJTIwY2hhcnRzfGVufDB8fHx8MTc2MjE5OTc3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard charts"
+    },
+    {
+      "id": "why-grantbridge",
+      "description": "Two people shaking hands in a modern office, symbolizing partnership and success.",
+      "imageUrl": "https://images.unsplash.com/photo-1681505531034-8d67054e07f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxidXNpbmVzcyUyMGhhbmRzaGFrZXxlbnwwfHx8fDE3NjIxODI4NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business handshake"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Avatar for a user.",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIwNzc3MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    }
+  ]
+}
